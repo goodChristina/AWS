@@ -1,4 +1,6 @@
 # Import required libraries
+# This updates the Lambda function with the code necessary to interact with the Entsoe 3rd Party API
+
 import pandas as pd
 from entsoe import EntsoePandasClient
 import datetime
